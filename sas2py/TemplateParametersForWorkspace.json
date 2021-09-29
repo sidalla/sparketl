@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"workspaceName": {
+			"value": "sas2py"
+		},
+		"GitHub1_credential": {
+			"value": ""
+		},
+		"sas2py-WorkspaceDefaultSqlServer_connectionString": {
+			"value": ""
+		},
+		"GitHub1_properties_typeProperties_username": {
+			"value": "sas2py"
+		},
+		"sas2py-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://sas2py1.dfs.core.windows.net"
+		}
+	}
+}
